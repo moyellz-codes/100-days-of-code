@@ -21,10 +21,18 @@
 
 ### Day 5: April 11, 2022
 
-**Today's Progress**: Working on the Python Arithmatic Arranger from the first challenge
+**Today's Progress**: Working on the Python Arithmatic Arranger from the first challenge. Completed the formatting part. Next steps to add the rules to include problem limiter and number of digits
 
 **Thoughts:** Having issues with the formatting. Outputs appear to the left would like it to appear on the right
 
 **Link(s) to work**
 1. [arithmetic-formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 
+### Day 6: April 12, 2022
+
+**Today's Progress**: Working on the Python Arithmatic Arranger from the free code camp challenge
+
+**Thoughts:** Having issues with the formatting. Outputs appear to the left would like it to appear on the right
+
+**Link(s) to work**
+1. [arithmetic-formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
