@@ -36,3 +36,21 @@
 
 **Link(s) to work**
 1. [arithmetic-formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
+
+### Day 7: April 12, 2022
+
+**Today's Progress**: Working on the Python Arithmatic Arranger from the free code camp challenge. Completed the script. Working on the errors that have ocurred
+
+**Thoughts:** Having issues with the formatting. Outputs appear to the left would like it to appear on the right
+
+**Link(s) to work**
+1. [arithmetic-formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
+
+### Day 8: April 13, 2022
+
+**Today's Progress**: Working on the Python Arithmatic Arranger from the free code camp challenge. Completed the script. Working on the errors that have ocurred
+
+**Thoughts:** Having issues with the formatting. Outputs appear to the left would like it to appear on the right
+
+**Link(s) to work**
+1. [arithmetic-formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
