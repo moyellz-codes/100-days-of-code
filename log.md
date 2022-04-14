@@ -63,4 +63,4 @@
 
 **Link(s) to work**
 1. [arithmetic-formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
-2. boilerplate-arithmetic-formatter-1
+2. https://github.com/moyellz-codes/arithmetic-formatter
