@@ -57,9 +57,10 @@
 
 ### Day 9: April 14, 2022
 
-**Today's Progress**: Working on the Python Arithmatic Arranger from the free code camp challenge. Completed the script. Working on the errors that have ocurred
+**Today's Progress**: Working on the Python Arithmatic Arranger from the free code camp challenge. Completed the script. Working on the errors that have ocurred. Made ammendments and completed the script.
 
 **Thoughts:** when running test script i have identified 4 errors. After looking closely i have seen that when True is present it should print out the result and when false is not present this should only print out the numbers,
 
 **Link(s) to work**
 1. [arithmetic-formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
+2. boilerplate-arithmetic-formatter-1
