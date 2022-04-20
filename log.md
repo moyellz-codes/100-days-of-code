@@ -65,7 +65,7 @@
 1. [arithmetic-formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 2. https://github.com/moyellz-codes/arithmetic-formatter
 
-### Day 9: April 14, 2022
+### Day 15: April 20, 2022
 
 **Today's Progress**: Working on the Python Arithmatic Arranger from the free code camp challenge. Completed the script. Working on the errors that have ocurred. Made ammendments and completed the script.
 
