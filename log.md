@@ -64,3 +64,20 @@
 **Link(s) to work**
 1. [arithmetic-formatter](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 2. https://github.com/moyellz-codes/arithmetic-formatter
+
+### Day 9: April 14, 2022
+
+**Today's Progress**: Working on the Python Arithmatic Arranger from the free code camp challenge. Completed the script. Working on the errors that have ocurred. Made ammendments and completed the script.
+
+**Thoughts:** when running test script i have identified 4 errors. After looking closely i have seen that when True is present it should print out the result and when false is not present this should only print out the numbers,
+
+**Link(s) to work**
+1. [arithmetic-formatter](### Day 15: April 21, 2022
+
+**Today's Progress**: Working on the time calculator challenge. Created a function to calulate the time. I have noticed it returns incorrect results. Needs to go back and change the logic to ensure the correct calculations are made.
+
+**Thoughts:** I need to rethink the logic as the script works but returns incorrect results.
+
+**Link(s) to work**
+1. [time-calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
+
