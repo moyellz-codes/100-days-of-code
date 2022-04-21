@@ -67,10 +67,11 @@
 
 ### Day 15: April 21, 2022
 
-**Today's Progress**: Working on the time calculator challenge. Created a function to calulate the time. I have noticed it returns incorrect results. Needs to go back and change the logic to ensure the correct calculations are made.
+**Today's Progress**: Working on the time calculator challenge. Created a function to calulate the time. I have noticed it returns incorrect results. Needs to go back and change the logic to ensure the correct calculations are made. I have now completes the script and ran unit tests provided on replit and these have passed all of the tests.
 
-**Thoughts:** I need to rethink the logic as the script works but returns incorrect results.
+**Thoughts:** 
 
 **Link(s) to work**
 1. [time-calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
+2. [Completed Script]https://github.com/moyellz-codes/time_calculator/tree/main
 
