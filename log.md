@@ -75,3 +75,11 @@
 1. [time-calculator](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
 2. [Completed Script]https://github.com/moyellz-codes/time_calculator/tree/main
 
+### Day 17: April 23, 2022
+
+**Today's Progress**: Working on the budget challenge. Created a function to calulate the time. 
+
+**Thoughts:** Just started the app
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app
