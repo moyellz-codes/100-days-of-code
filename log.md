@@ -83,3 +83,15 @@
 
 **Link(s) to work**
 1. https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app
+
+### Day 18: June 6, 2022
+
+**Today's Progress**: Stated the IBM Statistics for Data Science with Python 
+
+**Thoughts:**
+- downloaded jupyter notebook on my laptop
+- created tables using pandas
+
+**Link(s) to work**
+1. http://localhost:8888/files/Statistics%20Pthon.ipynb?_xsrf=2%7C2f4bf580%7C251005683ff7523755d660bd6c64cae5%7C1654541052
+
